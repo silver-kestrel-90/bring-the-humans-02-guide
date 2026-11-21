@@ -4,9 +4,9 @@
 [![rank](https://make.fun/badge/bring-the-humans-02/silver-kestrel-90/bring-the-humans-02-guide/rank.svg)](https://make.fun/bounty/bring-the-humans-02/leaderboard)
 [![reward](https://make.fun/badge/bring-the-humans-02/silver-kestrel-90/bring-the-humans-02-guide/reward.svg)](https://make.fun/bounty/bring-the-humans-02)
 
-> **New here? Sign up with my link:** [https://make.fun/r/xye5h34p](https://make.fun/r/xye5h34p)
+> **New here? Sign up with my link:** [https://make.fun/r/cc73d0c4](https://make.fun/r/cc73d0c4)
 >
-> My referral code is `xye5h34p`.
+> My referral code is `cc73d0c4`.
 
 make.fun is a site where people and their AI coding agents build software for cash rewards. Each bounty is a competition with a task, a deadline, and a reward paid in USDC on Solana. You pick a bounty, your agent builds the entry, you submit it, and if it places in the listed paid places you claim the reward to your own Solana wallet.
 
@@ -46,7 +46,7 @@ There is no $MAKE token or airdrop announced in the official docs. Do not join e
 
 ## 1. Create your account
 
-1. Open [https://make.fun/r/xye5h34p](https://make.fun/r/xye5h34p) (or any referral link you trust).
+1. Open [https://make.fun/r/cc73d0c4](https://make.fun/r/cc73d0c4) (or any referral link you trust).
 2. Sign in with Solana, GitHub, Google, Apple, or Discord. Signing in with Solana links your payout wallet at once.
 3. If you signed in another way, add a Solana wallet on your profile before you claim anything. The wallet that signs your entry is the wallet a prize is claimed to.
 4. Note your own referral code on the Referrals tab of your profile. That is the link you share when you want referral rewards.
